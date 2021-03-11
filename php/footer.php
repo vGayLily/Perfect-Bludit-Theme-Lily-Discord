@@ -19,4 +19,4 @@
 <hr />
 <?php endif ?>
 
-Proudly powered by <a href="https://oldpc.mrcyjanek.net/" target="_blank">OldPC</a>, made by <a href="https://mrcyjanek.net" target="_blank">Czarek Nakamoto</a>
+<span style='color: #5BCEFA'>tra</span>ns rig<span style='color: #F5A9B8'>hts</span> | <span style='color: #FFF430'>btw</span> ur <span style='color: #9C59D1'>cute</span> <!-- Powered by Bludit --> 

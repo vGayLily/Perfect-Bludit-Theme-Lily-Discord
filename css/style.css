@@ -1,6 +1,7 @@
 body {
-    margin:40px auto;            /* Center it */
-    background-color: black;
+    margin: 30px auto;            /* Center it */
+    padding: 15px;                /* make it not hit sides of the browser on small phones */
+    background-color: #23262c;
     color: white;                
     font-size: 150%;             /* Smaller type works well for print, not the screen. */
     max-width:650px;             /* If your text hits the side of the browser, fuck off forever. You ever see a book like that? Yes? What a shitty book. */
@@ -9,9 +10,9 @@ body {
 a {
    text-decoration: none;        /* No <strike>*/
 } 
-a:link    {color: chartreuse;}   /* unvisited link */
-a:visited {color: chartreuse;}   /* visited link */
-a:hover   {color: cyan;}         /* mouse over link */
+a:link    {color: #FF4DA8;}   /* unvisited link */
+a:visited {color: #FF4DA8;}   /* visited link */
+a:hover   {color: #C259FF;}         /* mouse over link */
 a:active  {color: red;}          /* selected link */
 pre {
     white-space: pre-wrap;       /* Since CSS 2.1 */

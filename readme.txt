@@ -1,3 +1,5 @@
-It couldn't be better.
+it looks 'okay' on iphones now
 
-Live demo: https://oldpc.mrcyjanek.net/blog/why-does-this-website-look-like-this
+and has less crappy color scheme
+
+Live Demo: https://blog.lilybee.club

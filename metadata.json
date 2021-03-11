@@ -1,11 +1,11 @@
 {
-    "author": "Czarek Nakamoto",
-    "email": "https://mrcyjanek.net",
-    "website": "https://oldpc.mrcyjanek.net/blog/",
+    "author": "Czarek Nakamoto (modified by Lily)",
+    "email": "lily@lilybee.club",
+    "website": "https://lilybee.club",
     "version": "1.0.0",
-    "releaseDate": "2020-05-16",
+    "releaseDate": "2021-03-11",
     "license": "WTFPL",
     "compatible": "3.x",
-    "notes": "It couldn't be more minimal"
+    "notes": "GRAY IS A BETTER DARK MODE THAN BLACK"
 }
 
